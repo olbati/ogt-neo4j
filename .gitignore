@@ -49,13 +49,15 @@ dependency-reduced-pom.xml
 hs_err_pid*
 *.log
 
+### JAVASCRIPT ###
+node_modules
 
 ### Eclipse ###
 .settings/
 .project
 .classpath
 infinitest.filters
-.prol	
+.prol
 *.pydevproject
 .metadata
 .gradle
